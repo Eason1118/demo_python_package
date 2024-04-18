@@ -1,0 +1,30 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "example_package"
+version = "0.0.1"
+authors = [
+    { name = "jianghushinian", email = "jianghushinian007@163.com" },
+]
+description = "A small example python package"
+readme = "README.md"
+license = { file = "LICENSE" }
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+dependencies = [
+    "certifi==2022.6.15",
+    "charset-normalizer==2.1.1",
+    "idna==3.3",
+    "requests==2.28.1",
+    "urllib3==1.26.12",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/jianghushinian/python_packaging_tutorial"
+"Bug Tracker" = "https://github.com/jianghushinian/python_packaging_tutorial/issues"
