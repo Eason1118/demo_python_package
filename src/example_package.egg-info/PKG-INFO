@@ -2,7 +2,7 @@ Metadata-Version: 2.1
 Name: example_package
 Version: 0.0.1
 Summary: A small example python package
-Author-email: jianghushinian <jianghushinian007@163.com>
+Author-email: Eason1118 <Eason11187@qq.com>
 License: Copyright (c) 2018 The Python Packaging Authority
         
         Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -23,8 +23,8 @@ License: Copyright (c) 2018 The Python Packaging Authority
         OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
         SOFTWARE.
         
-Project-URL: Homepage, https://github.com/jianghushinian/python_packaging_tutorial
-Project-URL: Bug Tracker, https://github.com/jianghushinian/python_packaging_tutorial/issues
+Project-URL: Homepage, https://github.com/Eason1118/demo_python_package
+Project-URL: Bug Tracker, https://github.com/Eason1118/demo_python_package/issues
 Classifier: Programming Language :: Python :: 3
 Classifier: License :: OSI Approved :: MIT License
 Classifier: Operating System :: OS Independent
